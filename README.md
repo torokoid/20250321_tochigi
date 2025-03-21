@@ -133,7 +133,7 @@ p.note { display: none; }
 <h2><span class="yellow">3月20日はFKD宇都宮で海産物展</span></h2>
 <a href="20250321_001.JPG" target="_blank"><img src="20250321_001.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">大人気の行列の先は、札幌のバタープレエッシェル</span></h2>
+<h2><span class="yellow">大人気の行列の先は、札幌のバタープレッシェル</span></h2>
 <a href="20250321_002.JPG" target="_blank"><img src="20250321_002.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">海鮮弁当の彩りが最高で思わず晩御飯用に購入</span></h2>
