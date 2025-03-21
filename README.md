@@ -146,7 +146,7 @@ p.note { display: none; }
 <a href="20250321_005.JPG" target="_blank"><img src="20250321_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250321_006.JPG" target="_blank"><img src="20250321_006.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">夕飯の楽しみができたので、いつものプールに向かいますが、コンビニの上の雲が地平まで続きました</span></h2>
+<h2><span class="yellow">夕飯の楽しみができたので、いつものプールに向かいますが、コンビニの上の雲が空の向こうまで続きました</span></h2>
 <a href="20250321_007.JPG" target="_blank"><img src="20250321_007.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">夕焼け空も綺麗なグラデーションです</span></h2>
